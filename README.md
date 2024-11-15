@@ -1,4 +1,4 @@
-# bible-sql
+# bible-sql-sqlite
 Bible database for SQLite
 
 ## Flavors ##
